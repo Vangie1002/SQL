@@ -57,9 +57,16 @@ Here is mainly introduce how to joint defferent tables.
 
    
 >- Our first query should return the "sku", "product_quantity", "date" and "unit_price" from the line_item table together with the "name" and the "price" of each product from the "products" table. We want only products present in both tables.
+
+![](https://github.com/Vangie1002/SQL/blob/master/1.PNG)
+
 >- Build a query that outputs the price difference that you just calculated, grouping products by category. Round the result.
+
+![](https://github.com/Vangie1002/SQL/blob/master/2.PNG)
+
 >- Let's keep working on the same query: now we want to keep only Cancelled orders. Modify this query to group the results from the previous query, first by category and then by brand, adding in both cases a count so we know which categories and which brands are most times present in Cancelled orders.
 
+![](https://github.com/Vangie1002/SQL/blob/master/3.PNG)
 
 #### <i class="icon-folder-open"></i> There has more in the complete files
 In the sprint 3 quesries PDF ,I have wrote all questions queries .
